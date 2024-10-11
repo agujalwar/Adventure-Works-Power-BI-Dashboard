@@ -8,7 +8,14 @@ This dashboard was built to support decision-makers in:
 - Identifying top-performing products and regions.
 - Comparing sales performance across different periods.
 - Understanding customer purchase behavior through various slicers and filters.
- 
+
+ ### 🔑 Power BI Features & Concepts Used:
+
+- Power Query Editor for transforming raw data, handling null values, and creating conditional columns.
+- Data Modeling using relationships between tables (fact and dimension) to ensure seamless interaction between the datasets.
+- DAX measures for calculating dynamic metrics like revenue growth, sales trends, and profit margins.
+- Interactive Visuals such as funnel charts, bar charts with secondary stepped lines, and map visualizations with filters, making it easy to explore the data in-depth.
+- 
 ### Page 1: Dashboard Overview
 ![AdventureWorks Report - Exec Dashboard](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report%20-%20Exec%20Dashboard.jpg)
 
@@ -54,17 +61,8 @@ This dashboard was built to support decision-makers in:
 ![Tree Composition](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report%20-%20Tree%20Composition.jpg)
 
 ### Features
-- Tree composition analyzing total orders by category, subcategory, and product name
-
-
-### 🔑 Power BI Features & Concepts Used:
-
-- Power Query Editor for transforming raw data, handling null values, and creating conditional columns.
-- Data Modeling using relationships between tables (fact and dimension) to ensure seamless interaction between the datasets.
-- DAX measures for calculating dynamic metrics like revenue growth, sales trends, and profit margins.
-- Interactive Visuals such as funnel charts, bar charts with secondary stepped lines, and map visualizations with filters, making it easy to explore the data in-depth.
-  
-
+- Tree composition analyzing total orders at different levels of categorization i.e. by category, subcategory, and product name.
+- A hierarchical view of total orders.
 
 Building this dashboard provided an excellent opportunity to utilize Power BI's rich features while applying analytical techniques to solve real-world business problems.
 
