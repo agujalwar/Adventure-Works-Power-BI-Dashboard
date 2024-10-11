@@ -54,7 +54,7 @@ This dashboard was built to support decision-makers in:
 ![Tree Composition](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report%20-%20Tree%20Composition.jpg)
 
 ### Features
-- Tree composition analyzing total orders by category, subcategory, product name, and product cost
+- Tree composition analyzing total orders by category, subcategory, and product name
 
 
 ### 🔑 Power BI Features & Concepts Used:
