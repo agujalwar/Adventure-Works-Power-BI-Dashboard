@@ -20,17 +20,39 @@ This dashboard was built to support decision-makers in:
 - Cards showing most ordered and most returned product types
 - Slicer for year and continent in a collapsible panel on the left
 
+### Page 2: Geographic Insights
 ![Map](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report-Map.jpg)
 
-### Page 2: Geographic Insights
+
 #### Features
 - Map chart displaying total orders with continent slicer
 - Bubbles on the map with a total orders tooltip
 
+### Page 3: Product Details
+
 ![Product Details](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report-Product%20Details.jpg)
 
+### Features
+- Product details with drill-through feature
+- Gauge cards for monthly orders, revenue, and profit compared to target
+- Line chart with profit trending and parameter for price adjustment
+- Line chart for return, revenue, profit, returns, and return rate trending with slicer
+
+ ### Page 4: Customer Details
+ 
 ![Customer Detail](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report-%20Customer%20Detail.jpg) 
 
+### Features
+- Cards displaying the number of customers and revenue per customer
+- Line chart of total customers and revenue per customer with slicer
+- Pie charts showing orders by income level and occupation
+- Table of top 100 customers with full names, number of orders, and revenue
+- Slicer for date and note filter for the top customer with the most revenue in 2022
+
+### Page 5: Tree Composition
+### Features
+
+Tree composition analyzing total orders by category, subcategory, product name, and product cost
 
 
 ### 🔑 Power BI Features & Concepts Used:
