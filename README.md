@@ -8,7 +8,7 @@ This dashboard was built to support decision-makers in:
 - Identifying top-performing products and regions.
 - Comparing sales performance across different periods.
 - Understanding customer purchase behavior through various slicers and filters.
-- 
+ 
 ### Page 1: Dashboard Overview
 ![AdventureWorks Report - Exec Dashboard](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report%20-%20Exec%20Dashboard.jpg)
 
@@ -50,9 +50,11 @@ This dashboard was built to support decision-makers in:
 - Slicer for date and note filter for the top customer with the most revenue in 2022
 
 ### Page 5: Tree Composition
-### Features
 
-Tree composition analyzing total orders by category, subcategory, product name, and product cost
+![Tree Composition](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report%20-%20Tree%20Composition.jpg)
+
+### Features
+- Tree composition analyzing total orders by category, subcategory, product name, and product cost
 
 
 ### 🔑 Power BI Features & Concepts Used:
