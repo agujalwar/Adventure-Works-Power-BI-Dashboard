@@ -65,5 +65,5 @@ This dashboard was built to support decision-makers in:
 - A hierarchical view of total orders.
 
 Building this dashboard provided an excellent opportunity to utilize Power BI's rich features while applying analytical techniques to solve real-world business problems.
-[Certificate](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/Certification%20of%20completion.pdf)
+![Certificate]([https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/Certification%20of%20completion.pdf](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/Certification%20of%20completion.png)
 
