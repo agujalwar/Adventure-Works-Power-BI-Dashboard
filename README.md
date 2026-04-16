@@ -1,5 +1,6 @@
 # Adventure-Works-Power-BI-Dashboard
-### Maven Analytics Project Showcase Link: https://mavenshowcase.com/project/20859
+### Maven Analytics Project Showcase Link: 
+https://mavenshowcase.com/project/20859
 
 ### 🎯 Problem Statement: 
 The project aimed to address key business needs such as tracking sales performance, monitoring KPIs, and analyzing trends over time. The challenge was to extract, clean, and model data from multiple sources and present it in a visually engaging and user-friendly format.
