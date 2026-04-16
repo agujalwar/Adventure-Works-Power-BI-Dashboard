@@ -1,4 +1,6 @@
 # Adventure-Works-Power-BI-Dashboard
+### Maven Analytics Project Showcase 
+https://mavenshowcase.com/project/20859
 
 ### 🎯 Problem Statement: 
 The project aimed to address key business needs such as tracking sales performance, monitoring KPIs, and analyzing trends over time. The challenge was to extract, clean, and model data from multiple sources and present it in a visually engaging and user-friendly format.
@@ -15,7 +17,7 @@ This dashboard was built to support decision-makers in:
 - Data Modeling using relationships between tables (fact and dimension) to ensure seamless interaction between the datasets.
 - DAX measures for calculating dynamic metrics like revenue growth, sales trends, and profit margins.
 - Interactive Visuals such as funnel charts, bar charts with secondary stepped lines, and map visualizations with filters, making it easy to explore the data in-depth.
-- 
+  
 ### Page 1: Dashboard Overview
 ![AdventureWorks Report - Exec Dashboard](https://github.com/agujalwar/Adventure-Works-Power-BI-Dashboard/blob/main/AdventureWorks%20Report%20-%20Exec%20Dashboard.jpg)
 
